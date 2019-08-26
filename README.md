@@ -1,5 +1,5 @@
 # ListasEncadeadas_int_gigantes
-   O objetivo do trabalho é implementar um sistema de armazenamento de
+   O objetivo do sistema é implementar um sistema de armazenamento de
 números inteiros de tamanho qualquer, utilizando uma estrutura de dados que
 armazena caracteres, logo a concatenação de cada lista da estrutura se tornará
 o inteiro desejado.
